@@ -1,0 +1,20 @@
+#myapp {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#app .project img {
+    width: 20px;
+    height: 20px;
+}
+
+.project {
+    display: row;
+   flex: 1;
+   text-align: center;
+   background-color: #ededed;
+   padding: 10px 0;
+}
